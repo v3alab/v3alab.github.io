@@ -112,5 +112,45 @@
 </description>
     </item>
     
+    <item>
+      <title>Are You Talking to Me? Reasoned Visual Dialog Generation through Adversarial Learning</title>
+      <link>/publication/45/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/45/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Question Answering with Memory-Augmented Networks</title>
+      <link>/publication/50/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/50/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explicit Knowledge-based Reasoning for Visual Question Answering</title>
+      <link>/publication/54/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/54/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The VQA-Machine: Learning How to Use Existing Vision Algorithms to Answer New Questions</title>
+      <link>/publication/55/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/55/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ask Me Anything: Free-form Visual Question Answering Based on Knowledge from External Sources</title>
+      <link>/publication/56/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/56/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

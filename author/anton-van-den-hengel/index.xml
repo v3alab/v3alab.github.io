@@ -131,5 +131,77 @@
 </description>
     </item>
     
+    <item>
+      <title>Are You Talking to Me? Reasoned Visual Dialog Generation through Adversarial Learning</title>
+      <link>/publication/45/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/45/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Parallel Attention: A Unified Framework for Visual Object Discovery through Dialogs and Queries</title>
+      <link>/publication/46/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/46/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments</title>
+      <link>/publication/48/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/48/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Visual Question Answering with Memory-Augmented Networks</title>
+      <link>/publication/50/</link>
+      <pubDate>Fri, 01 Jun 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/50/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HCVRD: a benchmark for large-scale Human-Centered Visual Relationship Detection</title>
+      <link>/publication/52/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/52/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Explicit Knowledge-based Reasoning for Visual Question Answering</title>
+      <link>/publication/54/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/54/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The VQA-Machine: Learning How to Use Existing Vision Algorithms to Answer New Questions</title>
+      <link>/publication/55/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/55/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ask Me Anything: Free-form Visual Question Answering Based on Knowledge from External Sources</title>
+      <link>/publication/56/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/56/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Value Do Explicit High Level Concepts Have in Vision to Language Problems? </title>
+      <link>/publication/57/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/57/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
