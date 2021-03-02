@@ -5,12 +5,20 @@
     <link>/author/guanghui-xu/</link>
       <atom:link href="/author/guanghui-xu/index.xml" rel="self" type="application/rss+xml" />
     <description>Guanghui Xu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Guanghui Xu</title>
       <link>/author/guanghui-xu/</link>
     </image>
+    
+    <item>
+      <title>Towards Accurate Text-based Image Captioning with Content Diversity Exploration</title>
+      <link>/publication/64/</link>
+      <pubDate>Mon, 01 Mar 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/64/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>How to Train Your Agent to Read and Write?</title>
