@@ -1,0 +1,69 @@
+// .myavatar {
+//     width: 100%;
+//     margin-top: 40px;
+//     margin-bottom: 0px;
+//     margin-left: -80px;
+//     margin-right: -10px;
+//     object-fit: cover; 
+// }
+.myavatar {
+    width: 100%;
+    margin-top: 40px;
+    margin-bottom: 0px;
+    margin-left: -15px;
+    margin-right: 0px;
+    object-fit: cover; 
+}
+.not-btn-outline-primary {
+    color: grey !important;
+    border-color: grey;
+    pointer-events: none;
+}
+.wg-github-v3alab-myaboutb {
+    margin-top: 20px;
+    background-color: white;
+    position: relative;
+    padding: 20px 20px 40px 30px;
+    z-index: 0;
+}
+.col-lg-4 {
+    flex: 0 0 28%;
+    max-width: 28%;
+}
+.my-col-lg-4 {
+    flex: 0 0 28%;
+    max-width: 28%;
+}
+.my-col-lg-8 {
+    flex: 0 0 72%;
+    max-width: 72%;
+}
+.my-m-2 {
+    margin-bottom: -12px;
+}
+.col-lg-8 {
+    flex: 0 0 72%;
+    max-width: 72%;
+}
+
+.my-card-text {
+    padding: 10px 0 -10px 0;
+}
+.my-card-text ul{
+    margin-left: -1rem;
+    margin-bottom: -5px;
+    font-size:80%
+}
+.my-card-text p{
+    font-size:80%
+}
+.article-metadata {
+    margin-bottom: 0px !important;
+    overflow: hidden;
+    font-size: 14px;
+    letter-spacing: 0.03em;
+    color: rgba(0, 0, 0, 0.54);
+}
+.mypub {
+    width: 100% ;
+}
