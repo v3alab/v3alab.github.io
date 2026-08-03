@@ -3,6 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/author/qi-chen/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/zheng-yu/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/shuai-fu/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/sihao-lin/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/jian-zhou/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/xinyu-yan/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/shan-wang/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/sinuo-wang/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/zerui-li/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/yuming-chen/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/xiangyu-shi/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/qunchao-jin/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/xunyi-zhao/</loc>
+  </url>
+  
+  <url>
     <loc>/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
@@ -140,10 +192,6 @@
   </url>
   
   <url>
-    <loc>/author/jian-zhou/</loc>
-  </url>
-  
-  <url>
     <loc>/author/mahdi-kazemi-moghaddam/</loc>
   </url>
   
@@ -152,43 +200,11 @@
   </url>
   
   <url>
-    <loc>/author/qi-chen/</loc>
-  </url>
-  
-  <url>
     <loc>/author/qi-wu/</loc>
   </url>
   
   <url>
-    <loc>/author/qunchao-jin/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/shuai-fu/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/sihao-lin/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/sinuo-wang/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/xiangyu-shi/</loc>
-  </url>
-  
-  <url>
     <loc>/author/xinyu-wang/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/xinyu-yan/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/xunyi-zhao/</loc>
   </url>
   
   <url>
@@ -204,19 +220,7 @@
   </url>
   
   <url>
-    <loc>/author/yuming-chen/</loc>
-  </url>
-  
-  <url>
     <loc>/author/yutong-xie/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/zerui-li/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/zheng-yu/</loc>
   </url>
   
 </urlset>
