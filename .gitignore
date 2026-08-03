@@ -4,3 +4,10 @@
 # Hugo
 /resources/
 public/
+
+# Local-only maintenance notes (keep credentials out of the repo)
+/Hugo说明.md
+/网站维护说明.docx
+
+# Office lock/temp files
+~$*
