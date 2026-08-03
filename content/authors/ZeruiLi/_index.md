@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Zheng Yu
+title: Zerui Li	
 
 # Display order in the People widget (smaller number = shown earlier)
-weight: 1
+weight: 5
 
 # Username (this should match the folder name)
 # use your name here
 authors:
-- ZhengYu
+- ZeruiLi	
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 role: "PhD Student"
-
+redirect_url: 
 # Organizations/Affiliations
 organizations:
 - name: University of Adelaide
@@ -30,12 +30,9 @@ bio: ""
 
 education:
   courses:
-  - course:  MEng in Electronics and Communication Engineering
-    institution: Peking University, China
-    year: 2021
-  - course: BEng in Electronic Science and Technology
-    institution: Southeast University, China
-    year: 2017
+  - course: BEng in Electrical and Electronics Engineering
+    institution:  University of Adelaide, Australia
+    year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'zheng.yu@adelaide.edu.au'  # For a direct email link, use "mailto:test@example.org".
+  link: 'zerui.li@adelaide.edu.au'  # For a direct email link, use "mailto:test@example.org".
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -63,5 +60,4 @@ user_groups:
 - PhD Students
 ---
 
-Zheng Yu is a PhD student of  School of Computer Science at the University of Adelaide,  under the supervision of Dr. Qi Wu. Zheng Yu has a broad research interest in Vision and Language. Currently, he is focusing on the problem of multimodal efficient transfer learning.
-
+Zerui is a PhD student at the Australian Institute of Machine Learning (AIML), under the supervision of A/prof. Qi Wu and Dr. Yanyuan Qiao. His research focuses on Vision-and-Language Navigation in the Embodied AI domain. He is currently on the pathway to his doctoral studies. He completed his Bachelor’s degree in Electrical and Electronics Engineering (Computer Engineering) with Honours at the University of Adelaide in 2023.  His accomplishments include winning 3rd place with the V3A team at the Robot Embodied Intelligence Challenge held by CCF China Software Conference in 2023.

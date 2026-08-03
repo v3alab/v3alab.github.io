@@ -2,6 +2,9 @@
 # Display name
 title: Qi Chen
 
+# Display order in the People widget (smaller number = shown earlier)
+weight: 1
+
 # Username (this should match the folder name)
 # use your name here
 authors:
@@ -12,7 +15,7 @@ superuser: false
 
 # Role/position
 role: "Postdoctoral Research Fellow"
-
+redirect_url: "https://scholar.google.com/citations?user=OgKU77kAAAAJ&hl=en"
 # Organizations/Affiliations
 organizations:
 - name: University of Adelaide

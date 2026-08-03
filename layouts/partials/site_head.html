@@ -174,6 +174,9 @@
   <link rel="icon" type="image/png" href="{{(partial "functions/get_icon" 32).RelPermalink}}">
   <link rel="apple-touch-icon" type="image/png" href="{{(partial "functions/get_icon" 192).RelPermalink}}">
 -->
+  {{ if and (.Params.redirect_url) (or (eq .Section "authors") (in .Permalink "/authors/")) }}
+  <meta http-equiv="refresh" content="0; url={{ .Params.redirect_url | safeURL }}">
+  {{ end }}
   <link rel="canonical" href="{{ .Permalink }}">
 
   {{/* Get page image for sharing. */}}

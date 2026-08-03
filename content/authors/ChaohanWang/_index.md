@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'chaohan.wang@adelaide.edu.au'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:chaohan.wang@adelaide.edu.au'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,7 +58,7 @@ email: "xxx@xxx"
 
 # avaiable options: "Director", "Postdocs",  "PhD Students",  "Visitors",
 user_groups:
-- PhD Students
+- Alumni
 ---
 
-Chaohan is a second-year PhD candidate at Australian Institute for Machine Learning. He is under the supervision of A Prof. Qi Wu and Dr. Yutong Xie. His research interest is Arttifical Intelligence in Medicine (AIM). 
+Chaohan is a PhD candidate at Australian Institute for Machine Learning. He is under the supervision of A Prof. Qi Wu and Dr. Yutong Xie. His research interest is Arttifical Intelligence in Medicine (AIM). 

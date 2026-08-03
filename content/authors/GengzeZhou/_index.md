@@ -43,7 +43,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'gengze.zhou@adelaide.edu.au'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:gengze.zhou@adelaide.edu.au'  # For a direct email link, use "mailto:test@example.org".
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,7 +58,7 @@ email: "xxx@xxx"
 
 # avaiable options: "Director", "Postdocs",  "PhD Students",  "Visitors",
 user_groups:
-- PhD Students
+- Alumni
 ---
 
-Gengze Zhou is a first-year Ph.D. student from the Australian Institute for Machine Learning at the University of Adelaide, supervised by A/Prof. Qi Wu. Gengze has broad research interests in Computer Vision, Natural Language Processing, and Robotics. Currently, his main research is on Embodied AI and Large-scale Multimodality Models.
+Gengze Zhou is a Ph.D. student from the Australian Institute for Machine Learning at the University of Adelaide, supervised by A/Prof. Qi Wu. Gengze has broad research interests in Computer Vision, Natural Language Processing, and Robotics. Currently, his main research is on Embodied AI and Large-scale Multimodality Models.

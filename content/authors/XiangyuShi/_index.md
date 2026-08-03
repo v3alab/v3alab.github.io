@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Zheng Yu
+title: Xiangyu Shi
 
 # Display order in the People widget (smaller number = shown earlier)
-weight: 1
+weight: 7
 
 # Username (this should match the folder name)
 # use your name here
 authors:
-- ZhengYu
+- XiangyuShi
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 role: "PhD Student"
-
+redirect_url: "https://www.linkedin.com/in/xiangyushi"
 # Organizations/Affiliations
 organizations:
 - name: University of Adelaide
@@ -30,12 +30,9 @@ bio: ""
 
 education:
   courses:
-  - course:  MEng in Electronics and Communication Engineering
-    institution: Peking University, China
-    year: 2021
-  - course: BEng in Electronic Science and Technology
-    institution: Southeast University, China
-    year: 2017
+  - course: 
+    institution: 
+    year: 
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'zheng.yu@adelaide.edu.au'  # For a direct email link, use "mailto:test@example.org".
+  link: ''  # For a direct email link, use "mailto:test@example.org".
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -63,5 +60,4 @@ user_groups:
 - PhD Students
 ---
 
-Zheng Yu is a PhD student of  School of Computer Science at the University of Adelaide,  under the supervision of Dr. Qi Wu. Zheng Yu has a broad research interest in Vision and Language. Currently, he is focusing on the problem of multimodal efficient transfer learning.
-
+Xiangyu Shi is a PhD student at the University of Adelaide.

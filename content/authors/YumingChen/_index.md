@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Zheng Yu
+title: Yuming Chen
 
 # Display order in the People widget (smaller number = shown earlier)
-weight: 1
+weight: 6
 
 # Username (this should match the folder name)
 # use your name here
 authors:
-- ZhengYu
+- YumingChen
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: "PhD Student"
-
+role: "MPhil Student"
+redirect_url: "https://www.linkedin.com/in/yuming-chen-20b257330/"
 # Organizations/Affiliations
 organizations:
 - name: University of Adelaide
@@ -28,14 +28,11 @@ bio: ""
 #interests:
 #- Visual Question Answering
 
-education:
-  courses:
-  - course:  MEng in Electronics and Communication Engineering
-    institution: Peking University, China
-    year: 2021
-  - course: BEng in Electronic Science and Technology
-    institution: Southeast University, China
-    year: 2017
+# education:
+#   courses:
+#   - course: BSc in Software Engineering
+#     institution: Jiangxi University of Finance and Economics, China
+#     year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,7 +41,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'zheng.yu@adelaide.edu.au'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:chenyuming052@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -53,7 +50,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "xxx@xxx"
+email: "chenyuming052@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -63,5 +60,4 @@ user_groups:
 - PhD Students
 ---
 
-Zheng Yu is a PhD student of  School of Computer Science at the University of Adelaide,  under the supervision of Dr. Qi Wu. Zheng Yu has a broad research interest in Vision and Language. Currently, he is focusing on the problem of multimodal efficient transfer learning.
-
+<!-- Yuming is a Master of Philosophy student at the Australian Institute for Machine Learning (AIML), University of Adelaide. He is jointly supervised by A/Prof. Qi Wu at the University of Adelaide and Dr. Yutong Xie at the Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). His research focuses on medical artificial intelligence, aiming to advance diagnostic and prognostic analysis in healthcare through cutting-edge AI technologies. -->

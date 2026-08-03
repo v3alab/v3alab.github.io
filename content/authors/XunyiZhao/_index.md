@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Zheng Yu
+title: Xunyi Zhao
 
 # Display order in the People widget (smaller number = shown earlier)
-weight: 1
+weight: 9
 
 # Username (this should match the folder name)
 # use your name here
 authors:
-- ZhengYu
+- XunyiZhao
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 role: "PhD Student"
-
+redirect_url: 
 # Organizations/Affiliations
 organizations:
 - name: University of Adelaide
@@ -30,12 +30,12 @@ bio: ""
 
 education:
   courses:
-  - course:  MEng in Electronics and Communication Engineering
-    institution: Peking University, China
-    year: 2021
-  - course: BEng in Electronic Science and Technology
-    institution: Southeast University, China
-    year: 2017
+  - course: Master of Artificial Intelligence and Machine Learning
+    institution: The University of Adelaide, Australia
+    year: 2025
+  - course: Bachelor of Information and Communication Technology
+    institution: Univeristy of Tasmania, Australia
+    year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,7 +44,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'zheng.yu@adelaide.edu.au'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:xunyi.zhao@adelaide.edu.au'  # For a direct email link, use "mailto:test@example.org".
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -53,7 +53,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "xxx@xxx"
+email: "mailto:xunyi.zhao@adelaide.edu.au"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -63,5 +63,5 @@ user_groups:
 - PhD Students
 ---
 
-Zheng Yu is a PhD student of  School of Computer Science at the University of Adelaide,  under the supervision of Dr. Qi Wu. Zheng Yu has a broad research interest in Vision and Language. Currently, he is focusing on the problem of multimodal efficient transfer learning.
+Xunyi Zhao is a PhD student at the Australian Institute for Machine Learning, University of Adelaide, supervised by A/Prof. Qi Wu and A/Prof. Jiajun Liu. He completed his Bachelor’s degree in Software Engineering at the University of Tasmania and earned his Master’s in Artificial Intelligence at the University of Adelaide. His current research focuses on Embodied AI, particularly in areas such as Vision-Language Navigation and robotic perception and decision-making.
 
