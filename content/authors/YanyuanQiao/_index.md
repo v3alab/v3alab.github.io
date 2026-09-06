@@ -61,7 +61,7 @@ email: ""
 
 # avaiable options: "Director", "Postdocs",  "PhD Students",  "Visitors",
 user_groups:
-- Postdocs
+- Alumni
 ---
 
 Yanyuan Qiao is a Postdoctoral Research Fellow working with A.P. [Qi Wu](http://www.qi-wu.me/), at [Australian Institute for Machine Learning (AIML)](https://www.adelaide.edu.au/aiml/), [The University of Adelaide](https://www.adelaide.edu.au/), where she completed her Ph.D. in Computer Science, under the supervision of A.P. [Qi Wu](http://www.qi-wu.me/) and Dr. [Yuankai Qi](https://sites.google.com/site/yuankiqi/home). Her research interests lie broadly in the field of Vision-and-Language and Embodied AI, especially in Vision-and-Language Navigation.

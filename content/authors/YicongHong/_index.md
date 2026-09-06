@@ -12,6 +12,7 @@ superuser: false
 
 # Role/position
 role: "PhD Student"
+redirect_url: "https://scholar.google.com/citations?user=AerHOzUAAAAJ&hl=en"
 
 # Organizations/Affiliations
 organizations:
@@ -23,18 +24,11 @@ organizations:
 bio: ""
 
 interests:
-- Vision-and-Language Navigation
 #- Computational Linguistics
 #- Information Retrieval
 
 education:
-  courses:
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -69,6 +63,3 @@ email: "xxx@xxx"
 user_groups:
 - Alumni
 ---
-
-Yicong is a second-year PhD student of the College of Engineering and Computer Science of the Australian National University (ANU), he is under the supervision of Prof. Stephen Gould and Dr. Qi Wu. Yicong has a broad research interests in computer vision, natural language processing and robotics. Currently, he is focusing on the problem of Vision-and-Language Navigation.
-

@@ -11,3 +11,10 @@ public/
 
 # Office lock/temp files
 ~$*
+
+# macOS
+.DS_Store
+
+# Local scratch / backups (not part of the site)
+/新增/
+*.md_bak

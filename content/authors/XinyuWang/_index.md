@@ -61,7 +61,7 @@ email: "xxx@xxx"
 
 # avaiable options: "Director", "Postdocs",  "PhD Students",  "Visitors",
 user_groups:
-- Postdocs
+- Alumni
 ---
 
 Xinyu is currently a Postdoctoral Research Fellow at the Centre for Augmented Reasoning, Australian Institute for Machine Learning, working with Prof. Qi Wu. He received his Ph.D. degree from the School of Computer and Mathematical Sciences at The University of Adelaide, Australia, under the supervision of Prof. Chunhua Shen.

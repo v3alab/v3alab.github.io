@@ -22,376 +22,220 @@ date_format = "2006-01"
 
 
   [[experience]]
-  title = "Qi Wu will serve as the Area Chair for CVPR 2024!"
+  title = "Three Papers are accepted by CoRL 2026"
   company = ""
   company_url = ""
   location = ""
-  date_start = "2023-10-01"
-  date_end = "2016-12-31"
-  description = """
-""" 
-
-
-
-  [[experience]]
-  title = "Three papers are accepted by IEEE TPAMI!"
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2023-10-01"
-  date_end = "2016-12-31"
-  description = """
-""" 
-
-
-
-  [[experience]]
-  title = "Four papers are respectively accepted by IEEE TIP, IEEE TMM,  NeurIPS 2023 and  ACM MM 2023!"
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2023-09-01"
-  date_end = "2016-12-31"
-  description = """
-""" 
-
-
-
-  [[experience]]
-  title = "Seven papers are accepted by ICCV 2023!"
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2023-07-01"
-  date_end = "2016-12-31"
-  description = """
-""" 
-
-
-
-  [[experience]]
-  title = "Two papers are accepted by MICCAI 2023!"
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2023-06-01"
-  date_end = "2016-12-31"
-  description = """
-""" 
-
-
-
-  [[experience]]
-  title = "One paper is accepted by ACL 2023!"
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2023-04-01"
-  date_end = "2016-12-31"
-  description = """
-""" 
-
-  [[experience]]
-  title = "Three papers are accepted by CVPR 2023!"
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2023-02-01"
-  date_end = "2016-12-31"
-  description = """
-""" 
-
-
-
-  [[experience]]
-  title = "One paper is accepted by IEEE TIP!"
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2022-11-01"
-  date_end = "2016-12-31"
-  description = """
-""" 
-
- 
-
- [[experience]]
-  title = "Qi Wu will serve as the Area Chair for CVPR, ICCV and NeurIPS 2023!"
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2022-10-01"
-  date_end = "2016-12-31"
-  description = """
-""" 
-
-  [[experience]]
-  title = "One paper is accepted by NeurIPS!"
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2022-09-01"
-  date_end = "2016-12-31"
-  description = """
-""" 
-
-
-
-  [[experience]]
-  title = "Two papers are accepted by ECCV!"
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2022-07-01"
-  date_end = "2016-12-31"
-  description = """
-""" 
-
-
-
-  [[experience]]
-  title = "One paper is accepted by ACL and one paper is accepted by NAACL!"
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2022-04-01"
-  date_end = "2016-12-31"
-  description = """
-""" 
-
-  [[experience]]
-  title = "Five papers are accepted by CVPR!"
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2022-02-01"
-  date_end = "2016-12-31"
-  description = """
-""" 
-
-
-
-  [[experience]]
-  title = "One paper is accepted by AAAI!"
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2022-01-01"
-  date_end = "2016-12-31"
-  description = """
-""" 
-
-[[experience]]
-  title = "One paper is accepted by IEEE TPAMI and one paper is accepted by IEEE TMM!"
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2021-11-01"
-  date_end = "2016-12-31"
-  description = """
-""" 
-
- 
-
-[[experience]]
-  title = "Two papers are accepted by NeurIPS 2021!"
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2021-09-29"
-  date_end = "2016-12-31"
-  description = """
-
-<!--Debiased Visual Question Answering-->
-
-<!--Landmark-RxR: Solving Vision-and-Language Navigation with Fine-Grained Alignment Supervision-->
-""" 
-
- [[experience]]
-  title = "We are hosting the 2nd REVERIE Challenge on ICCV Workshop 2021!"
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2021-07-23"
-  date_end = "2016-12-31"
-  description = """
-
-  :star2: More details at [here](https://github.com/YuankaiQi/REVERIE)
-    """
-
-[[experience]]
-  title = "One paper is accepted by ICCV 2021!"
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2021-07-23"
-  date_end = "2016-12-31"
-  description = """
-
-
-""" 
-
- [[experience]]
-    title = "Two papers are accepted by ACM MM 2021!"
-    company = ""
-    company_url = ""
-    location = ""
-    date_start = "2021-07-04"
-    date_end = "2016-12-31"
-    description = """
-    """ 
-
-[[experience]]
-    title = "Three papers are accepted by IJCAI 2021!"
-    company = ""
-    company_url = ""
-    location = ""
-    date_start = "2021-04-30"
-    date_end = "2016-12-31"
-    description = """
-    """
-
-[[experience]]
-  title = "We will host the 1st Vision-and-Language Navigation Tutorial, CVPR 2021."
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2021-03-01"
-  date_end = "2016-12-31"
-  description = """
-
-  * More details at [here](https://vqa2vln-tutorial.github.io/)
-    """
-
-[[experience]]
-  title = "Six papers are accepted by CVPR 2021!"
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2021-03-01"
-  date_end = "2016-12-31"
-  description = """
-
-<!--A Recurrent Vision-and-Language BERT for Navigation-->
-
-<!--Jo-SRC: A Contrastive Approach for Combating Noisy Labels-->
-
-<!--Sketch, Ground, and Refine: Top-Down Dense Video Captioning-->
-
-<!--Non-Salient Region Object Mining for Weakly Supervised Semantic Segmentation-->
-
-<!--Towards Accurate Text-based Image Captioning with Content Diversity Exploration-->
-
-<!--Room-and-Object Aware Knowledge Reasoning for Remote Embodied Referring Expression-->
-"""
-
-  [[experience]]
-    title = "One paper is accepted by TMM!"
-    company = ""
-    company_url = ""
-    location = ""
-    date_start = "2021-02-01"
-    date_end = "2016-12-31"
-    description = """
-    """
-[[experience]]
-  title = "Three papers are accepted by AAAI 2021!"
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2020-12-01"
-  date_end = "2016-12-31"
-  description = """
-"""
-
-[[experience]]
-  title = "Qi Wu will serve as an SPC of IJCAI 2021!"
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2020-11-01"
-  date_end = "2016-12-31"
-  description = """"""
-
-
-
-[[experience]]
-  title = "One paper is accepted by NeurIPS!"
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2020-09-01"
-  date_end = "2016-12-31"
-  description = """
-"""
-
-[[experience]]
-  title = "One long paper is accepted by EMNLP Conference Proceeding!"
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2020-09-01"
-  date_end = "2016-12-31"
+  date_start = "2026-09-05"
+  date_end = "2026-09-05"
   description = """
 """
 
   [[experience]]
-  title = "One paper is accepted by IEEE TPAMI!"
+  title = "One Paper is accepted by ECCV 2026"
   company = ""
   company_url = ""
   location = ""
-  date_start = "2020-09-01"
-  date_end = "2016-12-31"
-  description = """
-"""
-  [[experience]]
-title = "Qi Wu will serve as an SPC (Area Chair) of AAAI 2021!"
-company = ""
-company_url = ""
-location = ""
-date_start = "2020-08-01"
-date_end = "2016-12-31"
-description = """"""
-
-  [[experience]]
-  title = "Four papers are accepted by ACM MM 2020!"
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2020-07-01"
-  date_end = "2016-12-31"
+  date_start = "2026-06-18"
+  date_end = "2026-06-18"
   description = """
 """
 
   [[experience]]
-  title = "Four papers are accepted by ECCV 2020!"
+  title = "Two Paper are accepted by IROS 2026"
   company = ""
   company_url = ""
   location = ""
-  date_start = "2020-07-01"
-  date_end = "2016-12-31"
+  date_start = "2026-06-02"
+  date_end = "2026-06-02"
+  description = """
+"""
+
+
+  [[experience]]
+  title = "One Paper is accepted by MICCAI 2026"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "2026-06-01"
+  date_end = "2026-06-01"
+  description = """
+"""
+
+
+  [[experience]]
+  title = "One Paper is accepted by ICML 2026"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "2026-05-01"
+  date_end = "2026-05-01"
   description = """
 """
 
   [[experience]]
-  title = "We won the first place in Medical VQA Challenge 2020!"
+  title = "Four Papers are accepted by ACL 2026 (3 Main + 1 Findings)"
   company = ""
   company_url = ""
   location = ""
-  date_start = "2020-06-01"
-  date_end = "2016-12-31"
+  date_start = "2026-04-05"
+  date_end = "2026-04-05"
   description = """
-  * See Leadboard [here](https://www.aicrowd.com/challenges/imageclef-2020-vqa-med-vqa/leaderboards)
-    """
-    [[experience]]
-    title = "We won the first place in TextVQA Challenge 2020!"
-    company = ""
-    company_url = ""
-    location = ""
-    date_start = "2020-06-01"
-    date_end = "2016-12-31"
-    description = """
-  * See Leadboard [here](https://visualqa.org/workshop.html)
-    """
+"""
+
+  [[experience]]
+  title = "Two Papers are accepted by TPAMI"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "2026-02-26"
+  date_end = "2026-02-26"
+  description = """
+"""
+
+
+  [[experience]]
+  title = "Three Papers are accepted by CVPR 2026"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "2026-02-22"
+  date_end = "2026-02-22"
+  description = """
+"""
+
+  [[experience]]
+  title = "One Paper is accepted by TPAMI"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "2026-01-04"
+  date_end = "2026-01-04"
+  description = """
+"""
+
+  [[experience]]
+  title = "One Paper is accepted by ICRA 2026"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "2026-01-03"
+  date_end = "2026-01-03"
+  description = """
+"""
+
+
+  [[experience]]
+  title = "Two Papers are accepted by ICLR 2026"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "2026-01-01"
+  date_end = "2026-01-01"
+  description = """
+"""
+
+  [[experience]]
+  title = "Two Papers are accepted by AAAI 2026"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "2025-11-01"
+  date_end = "2025-11-01"
+  description = """
+"""
+
+  [[experience]]
+  title = "We have one ARC Discovery Project accepted"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "2025-10-15"
+  date_end = "2025-10-15"
+  description = """
+"""
+
+  [[experience]]
+  title = "One paper is accepted by NeurIPS 2025"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "2025-09-01"
+  date_end = "2025-09-01"
+  description = """
+"""
+
+  [[experience]]
+  title = "Two papers are accepted by ICCV 2025"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "2025-07-01"
+  date_end = "2025-07-01"
+  description = """
+"""
+
+  [[experience]]
+  title = "We won the Social Mobile Manipulation challenge @CVPR 2025"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "2025-06-30"
+  date_end = "2025-06-30"
+  description = """
+"""
+
+  [[experience]]
+  title = "Two papers are accepted by IROS 2025"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "2025-06-15"
+  date_end = "2025-06-15"
+  description = """
+"""
+
+
+  [[experience]]
+  title = "Our MiniVLN paper won the Best Conference Paper Finalist"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "2025-05-01"
+  date_end = "2025-05-01"
+  description = """
+"""
+
+
+  [[experience]]
+  title = "Three papers are accepted by CVPR 2025"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "2025-02-01"
+  date_end = "2025-02-01"
+  description = """
+"""
+
+
+  [[experience]]
+  title = "Two papers are accepted by ICLR 2025"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "2025-01-30"
+  date_end = "2025-01-30"
+  description = """
+"""
+
+  [[experience]]
+  title = "Three papers are accepted by ICRA 2025"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "2025-01-01"
+  date_end = "2025-01-01"
+  description = """
+"""
 
 +++

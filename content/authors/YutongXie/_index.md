@@ -67,7 +67,7 @@ email: "yutong.xie@adelaide.edu.au"
 
 # avaiable options: "Director", "Postdocs",  "PhD Students",  "Visitors",
 user_groups:
-- Postdocs
+- Alumni
 ---
 
 Yutong is currently a Postdoctoral Research Fellow at Australian Institute for Machine Learning (AIML), part of The University of Adelaide (UoA), working with Dr. Qi Wu. She received her Ph.D. in the School of Computer Science and Engineering at Northwestern Polytechnical University (NPU), China, under the supervision of Prof. Yong Xia. She has also spent two years at UoA during her Ph.D. studies, under the supervision of Prof. Chunhua Shen and Dr. Johan Verjans.
