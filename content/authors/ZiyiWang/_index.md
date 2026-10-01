@@ -1,21 +1,21 @@
 ---
 # Display name
-title: Shan Wang
+title: Ziyi Wang
 
 # Display order in the People widget (smaller number = shown earlier)
-weight: 4
+weight: 11
 
 # Username (this should match the folder name)
 # use your name here
 authors:
-- ShanWang
+- ZiyiWang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: "Postdoctoral Research Fellow"
-redirect_url: "https://scholar.google.com/citations?user=3xT-7nsAAAAJ&hl"
+role: "PhD Student"
+
 # Organizations/Affiliations
 organizations:
 - name: University of Adelaide
@@ -25,12 +25,17 @@ organizations:
 # leave empty here
 bio: ""
 
+#interests:
+#- Visual Question Answering
+
 education:
   courses:
-  - course: 
-    institution: 
-    year: 
-
+  - course: Master of Artificial Intelligence and Machine Learning
+    institution: The University of Adelaide, Australia
+    year: 2026
+  - course: Bachelor of Science in Mathematics and Applied Mathematics
+    institution: Ocean University of China, China
+    year: 2025
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,6 +45,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link:   # For a direct email link, use "mailto:test@example.org".
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -53,7 +59,8 @@ email: "xxx@xxx"
 #   Set this to `[]` or comment out if you are not using People widget.
 
 # avaiable options: "Director", "Postdocs",  "PhD Students",  "Visitors",
-# Removed from the People widget (left the group). Uncomment to restore.
-user_groups: []
-# - Postdocs
+user_groups:
+- PhD Students
 ---
+
+Ziyi Wang is a PhD student at the School of Computer Science, Adelaide University, supervised by A/Prof. Qi Wu and Dr. Xinyu Wang. He completed his Bachelor’s degree in Mathematics and Applied Mathematics at Ocean University of China and earned his Master’s degree in Artificial Intelligence and Machine Learning at the University of Adelaide. His current research focuses on Agentic Large Language Models in Interactive Virtual Environments, particularly exploring the perception, reasoning, decision-making, and adaptive capabilities of multimodal agents in interactive game and virtual environments.

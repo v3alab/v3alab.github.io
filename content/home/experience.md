@@ -22,6 +22,26 @@ date_format = "2006-01"
 
 
   [[experience]]
+  title = "One Paper is accepted by Science!"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "2026-09-30"
+  date_end = "2026-09-30"
+  description = """
+"""
+
+  [[experience]]
+  title = "One Paper is accepted by NeurIPS 2026 and One Paper is accepted by ACCV 2026"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "2026-09-25"
+  date_end = "2026-09-25"
+  description = """
+"""
+
+  [[experience]]
   title = "Three Papers are accepted by CoRL 2026"
   company = ""
   company_url = ""
@@ -32,7 +52,7 @@ date_format = "2006-01"
 """
 
   [[experience]]
-  title = "One Paper is accepted by ECCV 2026"
+  title = "Four Papers are respectively accepted by ECCV 2026, IROS 2026 (2 Papers) and MICCAI 2026"
   company = ""
   company_url = ""
   location = ""
@@ -40,28 +60,6 @@ date_format = "2006-01"
   date_end = "2026-06-18"
   description = """
 """
-
-  [[experience]]
-  title = "Two Paper are accepted by IROS 2026"
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2026-06-02"
-  date_end = "2026-06-02"
-  description = """
-"""
-
-
-  [[experience]]
-  title = "One Paper is accepted by MICCAI 2026"
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2026-06-01"
-  date_end = "2026-06-01"
-  description = """
-"""
-
 
   [[experience]]
   title = "One Paper is accepted by ICML 2026"
@@ -84,7 +82,7 @@ date_format = "2006-01"
 """
 
   [[experience]]
-  title = "Two Papers are accepted by TPAMI"
+  title = "Five Papers are respectively accepted by TPAMI (2 Papers) and CVPR 2026 (3 Papers)"
   company = ""
   company_url = ""
   location = ""
@@ -93,45 +91,13 @@ date_format = "2006-01"
   description = """
 """
 
-
   [[experience]]
-  title = "Three Papers are accepted by CVPR 2026"
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2026-02-22"
-  date_end = "2026-02-22"
-  description = """
-"""
-
-  [[experience]]
-  title = "One Paper is accepted by TPAMI"
+  title = "Four Papers are respectively accepted by TPAMI, ICRA 2026 and ICLR 2026 (2 Papers)"
   company = ""
   company_url = ""
   location = ""
   date_start = "2026-01-04"
   date_end = "2026-01-04"
-  description = """
-"""
-
-  [[experience]]
-  title = "One Paper is accepted by ICRA 2026"
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2026-01-03"
-  date_end = "2026-01-03"
-  description = """
-"""
-
-
-  [[experience]]
-  title = "Two Papers are accepted by ICLR 2026"
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2026-01-01"
-  date_end = "2026-01-01"
   description = """
 """
 
@@ -219,22 +185,12 @@ date_format = "2006-01"
 
 
   [[experience]]
-  title = "Two papers are accepted by ICLR 2025"
+  title = "Five papers are respectively accepted by ICLR 2025 (2 Papers) and ICRA 2025 (3 Papers)"
   company = ""
   company_url = ""
   location = ""
   date_start = "2025-01-30"
   date_end = "2025-01-30"
-  description = """
-"""
-
-  [[experience]]
-  title = "Three papers are accepted by ICRA 2025"
-  company = ""
-  company_url = ""
-  location = ""
-  date_start = "2025-01-01"
-  date_end = "2025-01-01"
   description = """
 """
 
