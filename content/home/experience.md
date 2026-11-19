@@ -22,6 +22,16 @@ date_format = "2006-01"
 
 
   [[experience]]
+  title = "Prof. Qi Wu will serve as a Senior Area Chair (SAC) for ICCV 2027"
+  company = ""
+  company_url = ""
+  location = ""
+  date_start = "2026-11-19"
+  date_end = "2026-11-19"
+  description = """
+"""
+
+  [[experience]]
   title = "One Paper is accepted by Science!"
   company = ""
   company_url = ""
